@@ -1,0 +1,11 @@
+{
+  "path": {
+    "source": "src",
+    "result": "marketplace"
+  },
+  "composer": {
+    "use": true,
+    "command": "composer",
+    "path": "vendor"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "danilin2010/genbitrixmodule",
+  "type": "library",
+  "description": "Library for the generation of modules Bitrix",
+  "keywords": ["Bitrix", "modules"],
+  "homepage": "https://github.com/danilin2010/genbitrixmodule",
+  "license": "BSD-2-Clause",
+  "authors": [
+    {
+      "name": "Alexander Danilin",
+      "email": "danilin2010@yandex.ru"
+    }
+  ],
+  "require": {
+    "symfony/filesystem": "^3.1",
+    "symfony/finder": "^3.1"
+  },
+  "autoload": {
+    "psr-4": {"GenBM\\": "src/"}
+  }
+}
