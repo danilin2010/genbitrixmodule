@@ -1,10 +1,11 @@
 {
+  "version": "1.0",
   "name": "danilin2010/genbitrixmodule",
   "type": "library",
   "description": "Library for the generation of modules Bitrix",
   "keywords": ["Bitrix", "modules"],
   "homepage": "https://github.com/danilin2010/genbitrixmodule",
-  "license": "BSD-2-Clause",
+  "license": "MIT",
   "authors": [
     {
       "name": "Alexander Danilin",
